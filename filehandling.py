@@ -1,0 +1,7 @@
+f = open("demofile.txt", "r")
+#print(f.read(5))
+#print(f.read())
+#print(f.readline())
+#print(f.readline())
+#print(f.tell())
+print(type(f))
